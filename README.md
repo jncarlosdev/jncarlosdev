@@ -2,7 +2,7 @@
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
 
-<h3 align="center"> Olá , meu nome é Jean Carlos<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+<h3 align="center"> Olá, sou Jean Carlos<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 
  <div>
