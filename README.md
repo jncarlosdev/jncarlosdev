@@ -7,9 +7,6 @@
 <hr>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/matheusferrazchagas/">
-  <img alt="Linkdein" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a>
 
  <div>
    <a href="https://github.com/jncarlosdev">
