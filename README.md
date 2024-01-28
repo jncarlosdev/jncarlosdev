@@ -21,7 +21,6 @@
 
 <br>
 
-<di
 
 <div>
   <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/gradients.png" alt="Gradients" width="100%">
