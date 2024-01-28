@@ -15,7 +15,7 @@
 </div>
 
 👋 Um entusiasta da programação em transição de carreira. Apaixonado pela área, tenho dedicado meu tempo ao estudo e aprimoramento constante. Comprometido em aprender e evoluir, estou empolgado para contribuir para projetos e colaborar com a comunidade. 🚀 #CoderInTransition
-
+<hr>
 </a>
 
 
