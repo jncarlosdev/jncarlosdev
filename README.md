@@ -6,7 +6,6 @@
 
 <hr>
 
-<div align="center">
 
 
 <hr>
