@@ -8,7 +8,7 @@
 
 
 
-<hr>
+
 
 ## Sobre mim
 
